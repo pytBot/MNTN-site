@@ -1,0 +1,14 @@
+@font-face{
+    font-family: 'Chronicle';
+    src: url('../fonts/Chronicle-Display-Semibold.otf') format('otf');
+}
+
+@font-face{
+    font-family: 'Gilroy';
+    src: url('../fonts/Gilroy-ExtraBold.otf') format('otf');
+}
+
+@font-face{
+    font-family: 'Gilroy';
+    src: url('../fonts/Gilroy-Light.otf') format('otf');
+}
